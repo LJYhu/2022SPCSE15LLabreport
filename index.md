@@ -1,4 +1,4 @@
-Installing VScode
+# Installing VScode
 
 
 ![image1](Photo1.png)
@@ -6,7 +6,7 @@ Installing VScode
 * I have downloaded the VScode when I take the CSE8B. I downloaded on it's official website.
 
 
-Remotely Connecting
+# Remotely Connecting
 
 
 ![image2](Photo2.png)
@@ -15,7 +15,7 @@ Remotely Connecting
 * The time and the Users Load and Averages are different since the different time we login.
 
 
-Trying Some Commands
+# Trying Some Commands
 
 
 ![image3](Photo3.png)
@@ -24,7 +24,7 @@ Trying Some Commands
 as we can check the blue and green name and find out that they are the same but displayed in a detailed way in the ls -lat.
 
 
-Moving Files with scp
+# Moving Files with scp
 
 
 ![image](Photo4-1.png)
@@ -36,7 +36,7 @@ it shows I’m at Linux. I think the getProperty can get some basic information 
 I believe the time can be shortened in a minute even less.
 
 
-Setting an SSH Key
+# Setting an SSH Key
 
 
 ![image](Photo5-1.png)
@@ -47,7 +47,7 @@ Setting an SSH Key
 * Since we don’t have to enter our password everytime now, I think the time we spend will be shorter, and I used 20 sec to finish it.
 
 
-Optimizing Remote Running
+# Optimizing Remote Running
 
 
 ![image](Photo6.png)
