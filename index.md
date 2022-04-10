@@ -1,5 +1,5 @@
 Installing VScode
-![Image](图片 1.png)
+![image1](Photo1.png)
 
 Remotely Connecting
 
