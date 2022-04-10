@@ -1,4 +1,5 @@
 Installing VScode
+![Image](图片 1.png)
 
 Remotely Connecting
 
