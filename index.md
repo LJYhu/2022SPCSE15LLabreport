@@ -70,3 +70,5 @@ I can just use my uparrow to get this command, and this makes the time shorter.
 I haven’t count my keystrokes precisely. But during the shortest try, I used around 11 keystrokes.
 ```
 
+
+>By Ke Hu A16946457 k3hu@ucsd.edu
