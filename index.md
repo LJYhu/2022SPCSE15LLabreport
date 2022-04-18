@@ -1,1 +1,1 @@
-# My Lab Report Link is [Here]()
+# My Lab Report Link is [Here](LabReport1.md)
